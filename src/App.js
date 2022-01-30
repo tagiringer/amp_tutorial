@@ -9,7 +9,6 @@ import Process from "./components/Process";
 import { Route, Switch } from "react-router-dom";
 import React from "react";
 import ResultsDetails from "./components/ResultsDetails";
-import AppRoutes from "./AppRoutes";
 import bernardresults from "./images/BernardResults.png";
 import supermutt from "./components/Supermutt";
 import Supermutt from "./components/Supermutt";
